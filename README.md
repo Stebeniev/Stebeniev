@@ -1,4 +1,4 @@
-![Background](https://images.wallpaperscraft.ru/image/single/oranzhevyj_fon_sploshnoj_65839_1920x1080.jpg)
+
 
 ## Hi, I'm Dmitriy 👋
 
