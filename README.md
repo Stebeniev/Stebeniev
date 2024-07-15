@@ -1,9 +1,6 @@
-## Hi there 👋
+## Hi, I'm Dmitriy 👋
+## A few details about myself - I'm a beginner developer. I've always been curious about how things work. That's why I decided to dive into the world of code. If I don't know how to do it - I will look for an answer to that question. If I lack information, I will find it and learn it. I don’t have any commercial projects yet- only educational ones, but I have a desire to learn, develop and work hard.
 
-<!--
-**Stebeniev/Stebeniev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
