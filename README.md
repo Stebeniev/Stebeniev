@@ -4,6 +4,6 @@
 
 #### You can see my portfolio if you follow the link...[just click...](https://stebeniev.github.io/D.Stebeniev/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stebeniev&layout=compact)
+
 
 
